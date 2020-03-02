@@ -1,11 +1,11 @@
 # Site settings
 author: Tylar Pierson
-title: 
+title: FullStack Web Development 
 header-img: img/home-bg.png
 email: tylarpiersonbusiness@gmail.com
 copyright_name: Tylar Pierson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Web Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tylarpierson
